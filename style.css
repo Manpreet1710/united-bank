@@ -1,0 +1,64 @@
+/* BACKGROUND DEFINES OF BODY*/
+body{background-image:url("1.jpg");}
+section.style
+{
+  background-repeat:no-repeat;
+  background-size:cover;
+  background-position:center center;
+}
+		 
+#r
+{
+  font-size:30px; 
+}
+span#f
+{
+	 color:blue;
+}
+/*CLOSE SECTION PART*/
+/*DEFINE DIV TAG*/
+#e
+{
+   background-image:url(E:/Htmlprojects/1.jpg);
+   padding:15px;
+   font-family: 'Shadows Into Light', cursive; 
+   font-size:40pX;
+}
+/*MAIN ARTICLE CONTENT   */
+#x
+{
+  text-indent:400px; 
+  text-decoration:underline;
+  font-size:100px;
+  color:white;
+  text-shadow:4px 4px 15px blue;
+}
+p
+{
+  Text-align:Center;
+  color:white;
+  font-size:2em;
+}
+.style4
+{
+  background-color:blue;
+  height:100px;
+  width:140px;
+}
+/*CLOSE MAIN CONTENT*/
+	
+/*FOOTER DEFINES*/	
+#style
+{
+  background-color:blue; padding:10px;
+  color:white;
+}
+	 
+.ravi1
+{
+	color:black;
+	text-align:center;
+	font-size:30px;
+}
+#text{text-indent:50px;text-indent:50px; color:blue;}
+	
